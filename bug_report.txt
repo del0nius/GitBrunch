@@ -1,0 +1,13 @@
+Bug ID
+Bug Name
+Summary
+Submit Date
+Reporter
+Operating System
+Browser
+URL
+Description
+Steps to reproduce
+Expected result
+Actual result
+Screenshot
